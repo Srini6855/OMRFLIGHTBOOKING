@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3960ce74-9616-49bf-a7e9-23d049dba14f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/SRINIVASU.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/base/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/pagemanager/PageObjectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/pages/BookFlightPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/pages/BookingConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/pages/SelectPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/stepdefinition/TC1_Login_Step.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/stepdefinition/TC2_SearchFlight_Step.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/stepdefinition/TC3_SelectFlight_Step.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/omrbranch/stepdefinition/TC4_BookFlight_Step.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/TC1_Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/TC2_SearchFlight.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/TC3_SelectFlight.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/TC4_BookFlight.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/TC5_ChangeBooking.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.20.0/selenium-api-4.20.0-sources.jar!/org/openqa/selenium/NoSuchElementException.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/resources/Features/TC4_BookFlight.feature" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iC87I9O1sY01jutmqOnzgUGsg1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SRINIVASU/IdeaProjects/OMRBranchGroceryApiAutomation&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/SRINIVASU/IdeaProjects/OMRBranchFlighBookingAutomation/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SRINIVASU\IdeaProjects\OMRBranchFlighBookingAutomation\src\test" />
+      <recent name="C:\Users\SRINIVASU\IdeaProjects\OMRBranchFlighBookingAutomation\src\main\java\com\omrbranch" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.omrbranch.pages" />
+      <recent name="com.omrbranch.base" />
+      <recent name="com.omrbranch.stepdefinition" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="OMRBranchFlighBookingAutomation" />
+      <option name="PACKAGE_NAME" value="com.omrbranch.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.omrbranch.runner.TestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3960ce74-9616-49bf-a7e9-23d049dba14f" name="Changes" comment="" />
+      <created>1718983040898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718983040898</updated>
+      <workItem from="1718983041972" duration="1423000" />
+      <workItem from="1718984489239" duration="1526000" />
+      <workItem from="1718989686779" duration="9111000" />
+      <workItem from="1719075090371" duration="1814000" />
+      <workItem from="1719120601155" duration="8241000" />
+      <workItem from="1719149499951" duration="6192000" />
+      <workItem from="1719160919208" duration="13000" />
+      <workItem from="1719199965331" duration="18694000" />
+      <workItem from="1719281142901" duration="1209000" />
+      <workItem from="1719288885567" duration="25498000" />
+      <workItem from="1719387910595" duration="27409000" />
+      <workItem from="1719466030211" duration="20129000" />
+      <workItem from="1719583143573" duration="20000" />
+      <workItem from="1719812884146" duration="6844000" />
+      <workItem from="1719914765127" duration="392000" />
+      <workItem from="1720005140604" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
